@@ -1,3 +1,3 @@
-# Odin Recipes
+# Cédric's Recipes
 
-I don't know yet what this project will be cause I'm following allong the instructions of Odin
+This a collection of the dishes I actually cook sometimes.
